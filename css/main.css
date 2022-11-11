@@ -1,0 +1,196 @@
+            /* FIRST TASK */
+            .green.tone{
+                background-color: #009688;
+                width: 100px;
+                height:100px;
+                position: absolute;
+                top: 30px;
+                left:30px;
+                z-index: 3;
+
+            }
+            .red.tone{
+                background-color: #f44336;
+                width: 100px;
+                height:100px;
+                position: absolute;
+                top: 40px;
+                left:40px;
+                z-index: 4;
+            }
+            .blue.tone{
+                background-color: #03a9f4;
+                width: 100px;
+                height:100px;
+                position: absolute;
+                top: 20px;
+                left:20px;
+                z-index: 2;
+            }
+            .black.tone{
+                background-color: #333333;
+                width: 100px;
+                height:100px;
+                position: absolute;
+                top: 30px;
+                left:20px;
+                z-index: 1;
+            }
+            /* FIRST TASK */
+
+            /* SECOND TASK */
+            .div-ttwo{
+                background-color: #eeeeee;
+                width:400px;
+                height: 85px;
+                padding:20px;
+                margin: 110px auto auto auto;
+                text-align: center;
+                border-style: solid;
+                border-color: #f44336 #2196f3 #f44336 #2196f3;
+                border-width: 5px;
+                position:relative;
+                top: 150px;
+
+            }
+            .top-left.ttwo{
+                background-color: #2196f3;
+                color: wheat;
+                text-align: center;
+                width: 30px;
+                height: 30px;
+                border-right-style: solid;
+                border-right-color: #f44336;
+                border-right-width: 5px;
+                position: absolute;
+                top: -15px;
+                left: -17.5px;
+                
+            } 
+            .bottom-left.ttwo{
+                background-color: #2196f3;
+                color: wheat;
+                text-align: center;
+                width:30px;
+                height: 30px;
+                border-right-style: solid;
+                border-right-color: #f44336;
+                border-right-width: 5px;
+                position: absolute;
+                bottom: -15px;
+                left: -17.5px;
+            }  
+            .top-right.ttwo{
+                background-color: #2196f3;
+                color: wheat;
+                text-align: center;
+                width:30px;
+                height: 30px;
+                border-left-style: solid;
+                border-left-color: #f44336;
+                border-left-width: 5px;
+                position: absolute;
+                top: -15px;
+                right: -17.5px;
+            }  
+            .bottom-right.ttwo{
+                background-color: #2196f3;
+                color: wheat;
+                text-align: center;
+                width:30px;
+                height: 30px;
+                border-left-style: solid;
+                border-left-color: #f44336;
+                border-left-width: 5px;
+                position: absolute;
+                bottom: -15px;
+                right: -17.5px;
+            }
+            /* SECOND TASK */
+
+            /* THIRD TASK */
+            .parent.tthree{
+                background-color: #767676;
+                color: wheat;
+                width: 400px;
+                margin:250px auto auto auto;
+                padding: 10px;
+            }
+            .row-11,
+            .row-12,
+            .row-13 {
+                background-color: #051828;
+                list-style-type: none;
+                width: 390px;
+                height: auto;
+                padding-left: 10px;
+            }
+            .row-11{
+                margin-bottom: 15px;
+            }
+            .row-12{
+                margin-bottom: 15px;
+            }
+            .row-13{
+                list-style-position: inside;
+            }
+            .first.tthree{
+                padding: 7px 7px 7px 40px;
+            }
+            .second.tthree{
+                padding: 7px 7px 7px 40px;
+            }
+
+            .third.tthree {
+                padding: 7px 7px 7px 0px;
+            }   
+            .first.tthree li{
+                background-color: #767676;
+                margin-bottom: 3px ;
+                padding-left: 7px;
+            }
+            .second.tthree li{
+                background-color: #767676;
+                margin-bottom: 3px;
+                padding-left: 7px;
+            }
+            .third.tthree li{
+                background-color: #767676;
+                margin-top: 3px;
+                padding-left: 7px;
+            }
+            /* THIRD TASK */
+            
+            /* TASK FOUR */
+            table{
+                color: black;
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 1.3vw;
+                text-align: center;
+                width: 700px;
+                margin: 100px auto;
+                border-bottom: solid rgb(80, 162, 177) 3px ;
+            }
+            td{
+                background-color: rgb(216, 216, 216);
+                margin: 0px;
+            }
+            thead td{
+                background-color: #404040;
+                color: #eee;
+                height: 40px;
+
+            }
+            .button-a{
+                background-color:#e91e63;
+                color: wheat;
+                border-style: none;
+                cursor: pointer;
+            }
+            .button-b{
+                background-color: #03a9f4;
+                color: wheat;
+                border-style: none;
+                cursor: pointer;
+            }
+            /* TASK FOUR */
